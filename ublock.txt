@@ -1,12 +1,10 @@
 coivl.net###scriptDiv
 coivl.net##^script:has-text(AdBlock)
-mythugian.net/xem/js/popup.js
-
-||mdn.neowin.net^
-neowin.com/news/images/uploaded/2015/08/steve_2008.jpg
 
 cdn.jsdelivr.net
 333xbet.com
+starzd.com
+vb88.com
 
 https://cdn1.kenhvn2.com/js/v3.js
 xemphimvn2.cc##div.video-highlight-box2
@@ -17,17 +15,16 @@ www.youtube.com###page-header
 partner-api.jobbio.com
 slashdot.org##article:not([data-fhid]).fhitem
 
-starzd.com
-tvphim.*/ads/popup-tt.js
-tvphim.*###preload-2 > div
-tvphim.*##.min-h-screen.bg-gray-900 > center
+tvphim.*##center
+tvphim.*/ads/*.js
 tvphim.*/ads/*.mp4
 
-foxnews.com
-
 www.reddit.com##floating-auth-unit-container
-https://sigmapatches.su/*.png
+www.investopedia.com##.jw-reset.jw-wrapper
+finviz.com##.justify-center.flex.my-2\.5
+||finviz.com/img/a/*$image
 nxbrew.net##^script:has-text(ads)
 
-edgedeliverynetwork.com/ad_pop_custom.js
-
+foxnews.com
+||mdn.neowin.net^
+123moviesclub.*##^script:has-text(ads)
