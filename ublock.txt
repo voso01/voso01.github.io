@@ -1,7 +1,7 @@
 coivl.net###scriptDiv
 coivl.net##^script:has-text(AdBlock)
 
-cdn.jsdelivr.net
+!cdn.jsdelivr.net
 333xbet.com
 starzd.com
 vb88.com
