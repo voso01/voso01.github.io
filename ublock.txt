@@ -6,8 +6,8 @@ coivl.net##^script:has-text(AdBlock)
 starzd.com
 vb88.com
 
-tvhayd.org##div.container:nth-of-type(2)
-tvhayd.org##.catfish-bottom.catfish-bottom-desktop
+tvhayd.*##div.container:nth-of-type(2)
+tvhayd.*##.catfish-bottom.catfish-bottom-desktop
 
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 www.youtube.com###page-header
