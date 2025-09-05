@@ -3,7 +3,7 @@ coivl.net##^script:has-text(AdBlock)
 
 !cdn.jsdelivr.net
 333xbet.com
-starzd.com
+!starzd.com
 vb88.com
 
 tvhayd.*##div.container:nth-of-type(2)
