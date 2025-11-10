@@ -27,4 +27,10 @@ nxbrew.net##^script:has-text(ads)
 
 foxnews.com
 ||mdn.neowin.net^
-123moviesclub.*##^script:has-text(ads)
+
+*##html, body, body *:style(user-select: auto !important)
+
+https://www.vn2data.com/js/link.fix.play.js
+https://vn2data.com/js/check/pc.js
+xemphimvn2.cc/js/checkcdn.js
+xemphimvn2.cc##.box_pc
