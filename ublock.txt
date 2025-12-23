@@ -21,12 +21,14 @@ tvphim.*/ads/*.mp4
 
 www.reddit.com##floating-auth-unit-container
 www.investopedia.com##.jw-reset.jw-wrapper
+www.zacks.com##.down.zc_popup_container
 finviz.com##.justify-center.flex.my-2\.5
 ||finviz.com/img/a/*$image
 nxbrew.net##^script:has-text(ads)
 
 foxnews.com
 ||mdn.neowin.net^
+news.google.com##.EWp6u > section
 
 *##html, body, body *:style(user-select: auto !important)
 
@@ -34,3 +36,6 @@ https://www.vn2data.com/js/link.fix.play.js
 https://vn2data.com/js/check/pc.js
 xemphimvn2.cc/js/checkcdn.js
 xemphimvn2.cc##.box_pc
+
+phimthuyetminh.top##^script:has-text(secondhand)
+phimthuyetminh.top##.footer-buttons
