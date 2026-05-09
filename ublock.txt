@@ -23,6 +23,7 @@ www.reddit.com##floating-auth-unit-container
 www.reddit.com##.flex-auto.right-sidebar-contents
 www.investopedia.com##.jw-reset.jw-wrapper
 forms.investopedia.com/*/main.js
+www.zacks.com##.up.zc_popup_container
 www.zacks.com##.down.zc_popup_container
 finviz.com##.justify-center.flex.my-2\.5
 ||finviz.com/img/a/*$image
@@ -39,6 +40,9 @@ https://vn2data.com/js/check/pc.js
 xemphimvn2.cc/js/checkcdn.js
 xemphimvn2.cc##.box_pc
 
-yflix.to##^script:has-text(event)
-slickdeals.net##.genericDealAlertsModal__container
-https://ads.starzd.com/i9z5.gif
+phimthuyetminh.date##.footer-buttons
+phimthuyetminh.date##^script:has-text(popunder)
+https://ads.starzd.*/i9z5.gif
+slickdeals.net##.frontpageDesktop__sidebar.slickdealsSidebar
+slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
+yflix.to##body > [href="#"]
