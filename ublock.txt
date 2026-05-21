@@ -45,4 +45,3 @@ phimthuyetminh.date##^script:has-text(popunder)
 https://ads.starzd.*/i9z5.gif
 slickdeals.net##.frontpageDesktop__sidebar.slickdealsSidebar
 slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
-yflix.to##body > [href="#"]
