@@ -19,8 +19,11 @@ tvphim.*##center
 tvphim.*/ads/*.js
 tvphim.*/ads/*.mp4
 
-www.reddit.com##floating-auth-unit-container
+!www.reddit.com##floating-auth-unit-container
+www.reddit.com##.mx-md.flex.\!mx-0.mb-md.legal-links
 www.reddit.com##.flex-auto.right-sidebar-contents
+www.reddit.com###flex-left-nav-container
+
 www.investopedia.com##.jw-reset.jw-wrapper
 forms.investopedia.com/*/main.js
 www.zacks.com##.up.zc_popup_container
