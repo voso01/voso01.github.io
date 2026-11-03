@@ -20,7 +20,7 @@ tvphim.*/ads/*.js
 tvphim.*/ads/*.mp4
 
 !www.reddit.com##floating-auth-unit-container
-www.reddit.com##.mx-md.flex.\!mx-0.mb-md.legal-links
+www.reddit.com##.mb-md.mx-md.flex.legal-links
 www.reddit.com##.flex-auto.right-sidebar-contents
 www.reddit.com###flex-left-nav-container
 
@@ -45,7 +45,12 @@ xemphimvn2.cc##.box_pc
 
 phimthuyetminh.date##.footer-buttons
 phimthuyetminh.date##^script:has-text(popunder)
+phimthuyetminh.date###popup-ad-overlay
+phimthuyetminh.date###banner-top-ad
 https://ads.starzd.*/i9z5.gif
 slickdeals.net##.frontpageDesktop__sidebar.slickdealsSidebar
 slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
 decafeligiblyhad.com
+www.polygon.com##.an-vp-int-transitioning.an-vp-int-with-overlays.an-vp-int-playlist.an-vp-int > .an-vp-int-c-video > .an-vp-int-c-video-inner > .an-vp-int-loading-screen
+www.polygon.com##.is-modal.w-article-limiter.w-login
+www.polygon.com##.w-display-card-vignette
